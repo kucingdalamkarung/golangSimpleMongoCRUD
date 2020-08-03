@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94f31ccf-8f39-4ed2-8c8a-31a20288195b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1fXgDihsR2qgHnsxXUbWwRAA5sZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo" />
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
+    <configuration name="go build simpleCrudMongoDB" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="simpleCrudMongoDB" />
+      <working_directory value="$PROJECT_DIR$" />
+      <envs>
+        <env name="MONGO_HOST" value="mongodb://localhost:27017" />
+        <env name="DB_NAME" value="people" />
+      </envs>
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="simpleCrudMongoDB" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envVars">
+            <list>
+              <DockerEnvVarImpl>
+                <option name="name" value="DOCKER_TLS_VERIFY" />
+                <option name="value" value="" />
+              </DockerEnvVarImpl>
+              <DockerEnvVarImpl>
+                <option name="name" value="DOCKER_CERT_PATH" />
+                <option name="value" value="" />
+              </DockerEnvVarImpl>
+            </list>
+          </option>
+          <option name="commandLineOptions" value="--build" />
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+      <item itemvalue="Go Build.go build simpleCrudMongoDB" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Go Build.go build simpleCrudMongoDB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="70" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596457651539">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="70" y="43" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.22.1366.746@0.22.1366.746" timestamp="1596457651539" />
+    <state x="436" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596379839059">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="436" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.22.1366.746@0.22.1366.746" timestamp="1596379839059" />
+    <state x="542" y="156" width="619" height="479" key="EnvironmentVariablesDialog" timestamp="1596377757787">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="542" y="156" width="619" height="479" key="EnvironmentVariablesDialog/0.22.1366.746@0.22.1366.746" timestamp="1596377757787" />
+    <state x="473" y="130" key="FileChooserDialogImpl" timestamp="1596457786300">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="473" y="130" key="FileChooserDialogImpl/0.22.1366.746@0.22.1366.746" timestamp="1596457786300" />
+    <state x="541" y="286" width="287" height="268" key="Github.ShareDialog" timestamp="1596457803704">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="541" y="286" width="287" height="268" key="Github.ShareDialog/0.22.1366.746@0.22.1366.746" timestamp="1596457803704" />
+    <state width="812" height="170" key="GridCell.Tab.0.bottom" timestamp="1596457619314">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="812" height="170" key="GridCell.Tab.0.bottom/0.22.1366.746@0.22.1366.746" timestamp="1596457619314" />
+    <state width="812" height="170" key="GridCell.Tab.0.center" timestamp="1596457619313">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="812" height="170" key="GridCell.Tab.0.center/0.22.1366.746@0.22.1366.746" timestamp="1596457619313" />
+    <state width="812" height="170" key="GridCell.Tab.0.left" timestamp="1596457619312">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="812" height="170" key="GridCell.Tab.0.left/0.22.1366.746@0.22.1366.746" timestamp="1596457619312" />
+    <state width="812" height="170" key="GridCell.Tab.0.right" timestamp="1596457619313">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="812" height="170" key="GridCell.Tab.0.right/0.22.1366.746@0.22.1366.746" timestamp="1596457619313" />
+    <state width="185" height="456" key="HiddenNamespacesPopup" timestamp="1596377084132">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state width="185" height="456" key="HiddenNamespacesPopup/0.22.1366.746@0.22.1366.746" timestamp="1596377084132" />
+    <state x="201" y="22" key="SettingsEditor" timestamp="1596457879220">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="201" y="22" key="SettingsEditor/0.22.1366.746@0.22.1366.746" timestamp="1596457879220" />
+    <state x="536" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1596455621694">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="536" y="150" key="refactoring.ChangeSignatureDialog/0.22.1366.746@0.22.1366.746" timestamp="1596455621694" />
+    <state x="348" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1596455524522">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="348" y="88" width="672" height="678" key="search.everywhere.popup/0.22.1366.746@0.22.1366.746" timestamp="1596455524522" />
+    <state x="397" y="228" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1596456960378">
+      <screen x="0" y="22" width="1366" height="746" />
+    </state>
+    <state x="397" y="228" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.22.1366.746@0.22.1366.746" timestamp="1596456960378" />
+  </component>
+</project>
